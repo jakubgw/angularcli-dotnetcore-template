@@ -45,3 +45,4 @@ DotNetAgnularTemplate.Web/e2e/*.map
 .DS_Store
 Thumbs.db
 
+DotNetAgnularTemplate.Web/wwwroot/
