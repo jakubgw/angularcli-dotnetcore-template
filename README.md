@@ -6,7 +6,7 @@ To run :
 
 
 To publish 
-dotnet publish
+1. dotnet publish
 
 Some hints how template was created : 
 1. dotnet new sln --name DotNetAgnularTemplate
