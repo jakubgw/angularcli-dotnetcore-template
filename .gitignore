@@ -46,3 +46,6 @@ DotNetAgnularTemplate.Web/e2e/*.map
 Thumbs.db
 
 DotNetAgnularTemplate.Web/wwwroot/
+.vs/
+DotNetAgnularTemplate.Web/DotNetAgnularTemplate.Web.csproj.user
+DotNetAgnularTemplate.Web/Properties/launchSettings.json
