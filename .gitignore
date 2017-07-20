@@ -1,0 +1,51 @@
+DotNetAgnularTemplate.Web/bin/
+DotNetAgnularTemplate.Web/obj/
+
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+DotNetAgnularTemplate.Web/dist
+DotNetAgnularTemplate.Web/tmp
+DotNetAgnularTemplate.Web/out-tsc
+
+# dependencies
+DotNetAgnularTemplate.Web/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+DotNetAgnularTemplate.Web/.sass-cache
+DotNetAgnularTemplate.Web/connect.lock
+DotNetAgnularTemplate.Web/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+DotNetAgnularTemplate.Web/typings
+
+# e2e
+DotNetAgnularTemplate.Web/e2e/*.js
+DotNetAgnularTemplate.Web/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
+
+DotNetAgnularTemplate.Web/wwwroot/
+.vs/
+DotNetAgnularTemplate.Web/DotNetAgnularTemplate.Web.csproj.user
+DotNetAgnularTemplate.Web/Properties/launchSettings.json
