@@ -4,5 +4,5 @@
 4. dotnet new webapi
 5. dotnet add package Microsoft.AspNetCore.StaticFiles
 6. add <TypeScriptCompileBlocked>true</TypeScriptCompileBlocked> to the cs proj 
-
-
+7. modify startup.cs 
+8. ng new DotNetAgnularTemplate.Web
